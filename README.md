@@ -43,5 +43,7 @@ After conducting my analysis and comparing all the data that I had found, I came
 - Tier 3 is the summer plan which allows the rider to ride anytime from June until August for $75 a year.
 
 For any more information on code or visualizations, please refer to the files provided in this repository. 
+
 For any questions or inquiries, please be kind enough to leave me an email at mohamedelogiel@gmail.com. 
+
 Thank you for taking the time to look over my project!
